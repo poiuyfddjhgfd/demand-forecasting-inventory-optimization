@@ -25,10 +25,7 @@ For blog post, see here: https://takehiroohashidsml.substack.com/p/end-to-end-de
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Usage
-This project is for educational and experimental purpose. Thus, it is non-commercial and follows license of datasource.
-
-### DISCRAMER
-This work is not affiliated with or endorsed by any parties. The author assumes no responsibility for the accuracy, completeness, or consequences of using the content provided. Use of the materials in this repository is at your own risk.
+This project is for educational and experimental purpose.
 
 ## Data pipeline
 
